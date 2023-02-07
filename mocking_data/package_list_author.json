@@ -1,0 +1,57 @@
+{
+    "total": 1,
+    "results": [
+        {
+            "package": {
+                "name": "sass-v",
+                "scope": "unscoped",
+                "version": "0.1.0",
+                "description": "CSS Custom Properties + Sass",
+                "keywords": [
+                    "sass",
+                    "scss",
+                    "css",
+                    "css",
+                    "variables",
+                    "css",
+                    "custom",
+                    "properties"
+                ],
+                "date": "2016-11-13T18:05:47.978Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/sass-v",
+                    "homepage": "https://github.com/davidkpiano/sass-v#readme",
+                    "repository": "https://github.com/davidkpiano/sass-v",
+                    "bugs": "https://github.com/davidkpiano/sass-v/issues"
+                },
+                "author": {
+                    "name": "David",
+                    "email": "davidkpiano@gmail.com",
+                    "username": "davidkpiano"
+                },
+                "publisher": {
+                    "username": "davidkpiano",
+                    "email": "davidkpiano@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "davidkpiano",
+                        "email": "davidkpiano@gmail.com"
+                    }
+                ]
+            },
+            "flags": {
+                "unstable": true
+            },
+            "score": {
+                "final": 0.2926694674738729,
+                "detail": {
+                    "quality": 0.3183784826669659,
+                    "popularity": 0.051687845023143233,
+                    "maintenance": 0.5116147911876658
+                }
+            },
+            "searchScore": 0.0000032426808
+        }
+    ]
+}

@@ -1,0 +1,1538 @@
+{
+    "total": 977,
+    "results": [
+        {
+            "package": {
+                "name": "node-ipc",
+                "scope": "unscoped",
+                "version": "10.1.0",
+                "description": "A nodejs module for local and remote Inter Process Communication (IPC), Neural Networking, and able to facilitate machine learning.",
+                "keywords": [
+                    "IPC",
+                    "Neural Networking",
+                    "Machine Learning",
+                    "inter",
+                    "process",
+                    "communication",
+                    "unix",
+                    "windows",
+                    "win",
+                    "socket",
+                    "TCP",
+                    "UDP",
+                    "domain",
+                    "sockets",
+                    "threaded",
+                    "communication",
+                    "multi",
+                    "process",
+                    "shared",
+                    "memory"
+                ],
+                "date": "2021-09-15T18:26:43.784Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/node-ipc",
+                    "homepage": "http://riaevangelist.github.io/node-ipc/"
+                },
+                "author": {
+                    "name": "Brandon Nozaki Miller"
+                },
+                "publisher": {
+                    "username": "riaevangelist",
+                    "email": "brandon@diginow.it"
+                },
+                "maintainers": [
+                    {
+                        "username": "alansikora",
+                        "email": "alansikora@gmail.com"
+                    },
+                    {
+                        "username": "rsp",
+                        "email": "r.pocztarski@gmail.com"
+                    },
+                    {
+                        "username": "mostafa-samir",
+                        "email": "mostafa.3210@gmail.com"
+                    },
+                    {
+                        "username": "riaevangelist",
+                        "email": "brandon@diginow.it"
+                    },
+                    {
+                        "username": "atiertant",
+                        "email": "a.tiertant@atlantis-software.net"
+                    },
+                    {
+                        "username": "theadd",
+                        "email": "pantallazo@gmail.com"
+                    },
+                    {
+                        "username": "robatron",
+                        "email": "rob.mcguiredale@gmail.com"
+                    },
+                    {
+                        "username": "vvinder",
+                        "email": "vvinder@gmail.com"
+                    },
+                    {
+                        "username": "lstratman",
+                        "email": "lstratman@medicomp.com"
+                    },
+                    {
+                        "username": "gloridea",
+                        "email": "gloridea@gloridea.net"
+                    },
+                    {
+                        "username": "mayberex",
+                        "email": "marioxcore1@gmail.com"
+                    },
+                    {
+                        "username": "kevinwilson541",
+                        "email": "kevinwilson541@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7824976490935625,
+                "detail": {
+                    "quality": 0.9538060598544834,
+                    "popularity": 0.4182095889646852,
+                    "maintenance": 0.9999499285702218
+                }
+            },
+            "searchScore": 2.5557995
+        },
+        {
+            "package": {
+                "name": "gatsby-plugin-guess-js",
+                "scope": "unscoped",
+                "version": "1.10.0",
+                "description": "Gatsby plugin providing drop-in integration with Guess.js to enabling using machine learning and analytics data to power prefetching",
+                "keywords": [
+                    "gatsby",
+                    "gatsby-plugin",
+                    "guess.js",
+                    "google analytics",
+                    "machine learning",
+                    "prefetch"
+                ],
+                "date": "2021-02-02T16:59:34.458Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/gatsby-plugin-guess-js"
+                },
+                "author": {
+                    "name": "Kyle Mathews",
+                    "email": "mathews.kyle@gmail.com",
+                    "username": "kylemathews"
+                },
+                "publisher": {
+                    "username": "ascorbic",
+                    "email": "m@mk.gg"
+                },
+                "maintainers": [
+                    {
+                        "username": "kgarbaya",
+                        "email": "kgarbaya@gmail.com"
+                    },
+                    {
+                        "username": "marvinjudehk",
+                        "email": "marvinjudehk@gmail.com"
+                    },
+                    {
+                        "username": "dschau",
+                        "email": "dustinschau@gmail.com"
+                    },
+                    {
+                        "username": "kylemathews",
+                        "email": "mathews.kyle@gmail.com"
+                    },
+                    {
+                        "username": "pieh",
+                        "email": "misiek.piechowiak@gmail.com"
+                    },
+                    {
+                        "username": "wardpeet",
+                        "email": "ward@coding-tech.com"
+                    },
+                    {
+                        "username": "tylerbarnes",
+                        "email": "tyler@known.design"
+                    },
+                    {
+                        "username": "fk",
+                        "email": "sechskilo@gmail.com"
+                    },
+                    {
+                        "username": "smthomas",
+                        "email": "shane@codekarate.com"
+                    },
+                    {
+                        "username": "lekoarts",
+                        "email": "lekoarts@gmail.com"
+                    },
+                    {
+                        "username": "rachelbahl",
+                        "email": "rachel@gatsbyjs.com"
+                    },
+                    {
+                        "username": "daniellewgatsby",
+                        "email": "daniel.lew@gatsbyjs.com"
+                    },
+                    {
+                        "username": "veryspry",
+                        "email": "ehlinger.matt@gmail.com"
+                    },
+                    {
+                        "username": "abhiaiyer",
+                        "email": "abhiaiyer91+npm@gmail.com"
+                    },
+                    {
+                        "username": "freiksenet",
+                        "email": "freiksenet@gmail.com"
+                    },
+                    {
+                        "username": "m-allanson",
+                        "email": "michael.allanson@gmail.com"
+                    },
+                    {
+                        "username": "sidharthachatterjee",
+                        "email": "me@sidharthachatterjee.com"
+                    },
+                    {
+                        "username": "moocar",
+                        "email": "anthony@moocar.me"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7229924671619662,
+                "detail": {
+                    "quality": 0.888213225533646,
+                    "popularity": 0.3046835961763722,
+                    "maintenance": 0.9996835452575491
+                }
+            },
+            "searchScore": 0.9065104
+        },
+        {
+            "package": {
+                "name": "@react-native-firebase/ml",
+                "scope": "react-native-firebase",
+                "version": "14.2.2",
+                "description": "React Native Firebase - Firebase ML brings the power of machine learning vision to your React Native application, supporting both Android & iOS.",
+                "keywords": [
+                    "react",
+                    "react-native",
+                    "firebase",
+                    "ml",
+                    "machine learning",
+                    "text recognition",
+                    "landmark recognition",
+                    "image labeler"
+                ],
+                "date": "2022-01-06T16:49:06.060Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40react-native-firebase%2Fml",
+                    "homepage": "https://github.com/invertase/react-native-firebase/tree/main#readme",
+                    "repository": "https://github.com/invertase/react-native-firebase/tree/main",
+                    "bugs": "https://github.com/invertase/react-native-firebase/issues"
+                },
+                "author": {
+                    "name": "Invertase",
+                    "email": "oss@invertase.io",
+                    "url": "http://invertase.io"
+                },
+                "publisher": {
+                    "username": "salakar",
+                    "email": "mike.diarmid@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "salakar",
+                        "email": "mike.diarmid@gmail.com"
+                    },
+                    {
+                        "username": "ehesp",
+                        "email": "elliot.hesp@gmail.com"
+                    },
+                    {
+                        "username": "mikehardy",
+                        "email": "npmjs@mikehardy.net"
+                    },
+                    {
+                        "username": "rusticman",
+                        "email": "russellwheatley85@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7170437489385103,
+                "detail": {
+                    "quality": 0.9531350470148451,
+                    "popularity": 0.23179878170106596,
+                    "maintenance": 0.9999247463962392
+                }
+            },
+            "searchScore": 0.5757347
+        },
+        {
+            "package": {
+                "name": "@aws-sdk/client-machine-learning",
+                "scope": "aws-sdk",
+                "version": "3.46.0",
+                "description": "AWS SDK for JavaScript Machine Learning Client for Node.js, Browser and React Native",
+                "date": "2022-01-07T22:50:46.329Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40aws-sdk%2Fclient-machine-learning",
+                    "homepage": "https://github.com/aws/aws-sdk-js-v3/tree/main/clients/client-machine-learning",
+                    "repository": "https://github.com/aws/aws-sdk-js-v3",
+                    "bugs": "https://github.com/aws/aws-sdk-js-v3/issues"
+                },
+                "author": {
+                    "name": "AWS SDK for JavaScript Team",
+                    "url": "https://aws.amazon.com/javascript/"
+                },
+                "publisher": {
+                    "username": "aws-sdk-bot",
+                    "email": "aws-sdk-js-automation@amazon.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "amzn-oss",
+                        "email": "osa-3p@amazon.com"
+                    },
+                    {
+                        "username": "zheallan",
+                        "email": "zheallan@amazon.com"
+                    },
+                    {
+                        "username": "aws-sdk-bot",
+                        "email": "aws-sdk-js-automation@amazon.com"
+                    },
+                    {
+                        "username": "trivikr-aws",
+                        "email": "trivikr@amazon.com"
+                    },
+                    {
+                        "username": "jamesiri",
+                        "email": "jamesiri@amazon.com"
+                    },
+                    {
+                        "username": "mattsb42-aws",
+                        "email": "bullocm@amazon.com"
+                    },
+                    {
+                        "username": "jordonphillips",
+                        "email": "phjordon+npm@amazon.de"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6839340034694907,
+                "detail": {
+                    "quality": 0.9508758694555134,
+                    "popularity": 0.14280324622196353,
+                    "maintenance": 0.9962574470147126
+                }
+            },
+            "searchScore": 0.552109
+        },
+        {
+            "package": {
+                "name": "@react-native-firebase/ml-natural-language",
+                "scope": "react-native-firebase",
+                "version": "7.4.11",
+                "description": "React Native Firebase - Firebase ML Kit brings the power of machine learning to your React Native application, supporting both Android & iOS.",
+                "keywords": [
+                    "react",
+                    "react-native",
+                    "firebase",
+                    "mlkit",
+                    "identify language",
+                    "smart replies",
+                    "machine learning",
+                    "barcode",
+                    "label",
+                    "natural language",
+                    "nlp",
+                    "vision"
+                ],
+                "date": "2020-11-10T17:06:07.562Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40react-native-firebase%2Fml-natural-language",
+                    "homepage": "https://github.com/invertase/react-native-firebase#readme",
+                    "repository": "https://github.com/invertase/react-native-firebase",
+                    "bugs": "https://github.com/invertase/react-native-firebase/issues"
+                },
+                "author": {
+                    "name": "Invertase",
+                    "email": "oss@invertase.io",
+                    "url": "http://invertase.io"
+                },
+                "publisher": {
+                    "username": "mikehardy",
+                    "email": "npmjs@mikehardy.net"
+                },
+                "maintainers": [
+                    {
+                        "username": "mikehardy",
+                        "email": "npmjs@mikehardy.net"
+                    },
+                    {
+                        "username": "rusticman",
+                        "email": "russellwheatley85@gmail.com"
+                    },
+                    {
+                        "username": "ehesp",
+                        "email": "elliot.hesp@gmail.com"
+                    },
+                    {
+                        "username": "salakar",
+                        "email": "mike.diarmid@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7128483007795303,
+                "detail": {
+                    "quality": 0.9544576883263731,
+                    "popularity": 0.21956239263899963,
+                    "maintenance": 0.9990404481656241
+                }
+            },
+            "searchScore": 0.46287125
+        },
+        {
+            "package": {
+                "name": "@react-native-firebase/ml-vision",
+                "scope": "react-native-firebase",
+                "version": "7.4.13",
+                "description": "React Native Firebase - Firebase ML Kit brings the power of machine learning vision to your React Native application, supporting both Android & iOS.",
+                "keywords": [
+                    "react",
+                    "react-native",
+                    "firebase",
+                    "mlkit",
+                    "machine learning",
+                    "text recognition",
+                    "landmark recognition",
+                    "image labeler",
+                    "face detector",
+                    "barcode",
+                    "label",
+                    "natural language",
+                    "nlp",
+                    "vision"
+                ],
+                "date": "2020-11-10T17:06:07.494Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40react-native-firebase%2Fml-vision",
+                    "homepage": "https://github.com/invertase/react-native-firebase#readme",
+                    "repository": "https://github.com/invertase/react-native-firebase",
+                    "bugs": "https://github.com/invertase/react-native-firebase/issues"
+                },
+                "author": {
+                    "name": "Invertase",
+                    "email": "oss@invertase.io",
+                    "url": "http://invertase.io"
+                },
+                "publisher": {
+                    "username": "mikehardy",
+                    "email": "npmjs@mikehardy.net"
+                },
+                "maintainers": [
+                    {
+                        "username": "rusticman",
+                        "email": "russellwheatley85@gmail.com"
+                    },
+                    {
+                        "username": "mikehardy",
+                        "email": "npmjs@mikehardy.net"
+                    },
+                    {
+                        "username": "ehesp",
+                        "email": "elliot.hesp@gmail.com"
+                    },
+                    {
+                        "username": "salakar",
+                        "email": "mike.diarmid@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.715699724893047,
+                "detail": {
+                    "quality": 0.9548774150685351,
+                    "popularity": 0.22649581060706667,
+                    "maintenance": 0.9998941904571806
+                }
+            },
+            "searchScore": 0.45305842
+        },
+        {
+            "package": {
+                "name": "nsfwjs",
+                "scope": "unscoped",
+                "version": "2.4.1",
+                "description": "Detect NSFW content client-side",
+                "keywords": [
+                    "NSFW",
+                    "JavaScript",
+                    "ML",
+                    "Machine",
+                    "Learning",
+                    "Tensorflow",
+                    "JS"
+                ],
+                "date": "2021-06-26T17:14:05.756Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/nsfwjs",
+                    "homepage": "https://nsfwjs.com/",
+                    "repository": "https://github.com/infinitered/nsfwjs",
+                    "bugs": "https://github.com/infinitered/nsfwjs/issues"
+                },
+                "author": {
+                    "name": "Gant Laborde"
+                },
+                "publisher": {
+                    "username": "gantman",
+                    "email": "gantman+npm@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "gantman",
+                        "email": "gantman+npm@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7132169769364797,
+                "detail": {
+                    "quality": 0.9341821839878668,
+                    "popularity": 0.2395088971895616,
+                    "maintenance": 0.997526307782209
+                }
+            },
+            "searchScore": 0.31548393
+        },
+        {
+            "package": {
+                "name": "@aws-amplify/predictions",
+                "scope": "aws-amplify",
+                "version": "4.0.30",
+                "description": "Machine learning category of aws-amplify",
+                "date": "2022-01-07T00:17:14.259Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40aws-amplify%2Fpredictions",
+                    "homepage": "https://aws-amplify.github.io/",
+                    "repository": "https://github.com/aws-amplify/amplify-js",
+                    "bugs": "https://github.com/aws/aws-amplify/issues"
+                },
+                "author": {
+                    "name": "Amazon Web Services"
+                },
+                "publisher": {
+                    "username": "aws-amplify-ops",
+                    "email": "aws-amplify@amazon.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "amplify-codegen",
+                        "email": "amplify-codegen+npm@amazon.com"
+                    },
+                    {
+                        "username": "mlabieniec",
+                        "email": "michaellabieniec@gmail.com"
+                    },
+                    {
+                        "username": "amzn-oss",
+                        "email": "osa-3p@amazon.com"
+                    },
+                    {
+                        "username": "undefobj",
+                        "email": "rthrelkeld1980@gmail.com"
+                    },
+                    {
+                        "username": "aws-amplify-ops",
+                        "email": "aws-amplify@amazon.com"
+                    },
+                    {
+                        "username": "manuel.iglesias",
+                        "email": "manuel.iglesias@gmail.com"
+                    },
+                    {
+                        "username": "thaddmt",
+                        "email": "thaddmt@gmail.com"
+                    },
+                    {
+                        "username": "mattsb42-aws",
+                        "email": "bullocm@amazon.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6714137654627549,
+                "detail": {
+                    "quality": 0.8482017172642735,
+                    "popularity": 0.3729686379296709,
+                    "maintenance": 0.8183263628802516
+                }
+            },
+            "searchScore": 0.25976554
+        },
+        {
+            "package": {
+                "name": "node-svm",
+                "scope": "unscoped",
+                "version": "2.1.9",
+                "description": "Support Vector Machine for nodejs",
+                "keywords": [
+                    "svm",
+                    "machine learning",
+                    "libsvm"
+                ],
+                "date": "2018-09-07T09:02:17.186Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/node-svm",
+                    "homepage": "https://github.com/nicolaspanel/node-svm",
+                    "repository": "https://github.com/nicolaspanel/node-svm",
+                    "bugs": "https://github.com/nicolaspanel/node-svm/issues"
+                },
+                "author": {
+                    "name": "Nicolas Panel"
+                },
+                "publisher": {
+                    "username": "nicolaspanel",
+                    "email": "nicolas.panel@live.fr"
+                },
+                "maintainers": [
+                    {
+                        "username": "nicolaspanel",
+                        "email": "nicolas.panel@live.fr"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6733890202100329,
+                "detail": {
+                    "quality": 0.9274450707102379,
+                    "popularity": 0.12910932811237497,
+                    "maintenance": 0.9999063833075152
+                }
+            },
+            "searchScore": 0.23503941
+        },
+        {
+            "package": {
+                "name": "ml-kmeans",
+                "scope": "unscoped",
+                "version": "5.0.0",
+                "description": "K-Means clustering",
+                "keywords": [
+                    "cluster",
+                    "kmeans",
+                    "data",
+                    "mining",
+                    "datamining",
+                    "machine",
+                    "learning"
+                ],
+                "date": "2019-06-29T16:00:35.145Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/ml-kmeans",
+                    "homepage": "https://github.com/mljs/kmeans",
+                    "repository": "https://github.com/mljs/kmeans",
+                    "bugs": "https://github.com/mljs/kmeans/issues"
+                },
+                "author": {
+                    "name": "Miguel Asencio",
+                    "email": "maasencioh@gmail.com",
+                    "url": "https://github.com/maasencioh",
+                    "username": "maasencioh"
+                },
+                "publisher": {
+                    "username": "targos",
+                    "email": "targos+npm@protonmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "mljs-bot",
+                        "email": "bot+npm-mljs@zakodium.com"
+                    },
+                    {
+                        "username": "stropitek",
+                        "email": "kostro.d@gmail.com"
+                    },
+                    {
+                        "username": "targos",
+                        "email": "targos+npm@protonmail.com"
+                    },
+                    {
+                        "username": "lpatiny",
+                        "email": "lpatiny@gmail.com"
+                    },
+                    {
+                        "username": "maasencioh",
+                        "email": "maasencioh@gmail.com"
+                    },
+                    {
+                        "username": "jeffersonh44",
+                        "email": "jeffersonh44@gmail.com"
+                    },
+                    {
+                        "username": "andcastillo",
+                        "email": "andcastillo@gmail.com"
+                    },
+                    {
+                        "username": "ml-bot",
+                        "email": "admin@cheminfo.org"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6971751395782569,
+                "detail": {
+                    "quality": 0.9991466283481032,
+                    "popularity": 0.13563674053897717,
+                    "maintenance": 0.9998808339576686
+                }
+            },
+            "searchScore": 0.16704518
+        },
+        {
+            "package": {
+                "name": "@tensorflow/tfjs",
+                "scope": "tensorflow",
+                "version": "3.12.0",
+                "description": "An open-source machine learning framework.",
+                "date": "2021-12-08T20:31:58.938Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40tensorflow%2Ftfjs",
+                    "homepage": "https://github.com/tensorflow/tfjs#readme",
+                    "repository": "https://github.com/tensorflow/tfjs",
+                    "bugs": "https://github.com/tensorflow/tfjs/issues"
+                },
+                "publisher": {
+                    "username": "ahmedsabie",
+                    "email": "ahmed13579@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "pyu10055",
+                        "email": "ping.yu.11@gmail.com"
+                    },
+                    {
+                        "username": "dsmilkov",
+                        "email": "dsmilkov@gmail.com"
+                    },
+                    {
+                        "username": "nsthorat",
+                        "email": "nsthorat@google.com"
+                    },
+                    {
+                        "username": "tafsiri",
+                        "email": "yassogba@gmail.com"
+                    },
+                    {
+                        "username": "caisq",
+                        "email": "cais@google.com"
+                    },
+                    {
+                        "username": "annxingyuan",
+                        "email": "annyuan@gmail.com"
+                    },
+                    {
+                        "username": "kangyizhang",
+                        "email": "kangyizhang@google.com"
+                    },
+                    {
+                        "username": "linazhao128",
+                        "email": "linazhao128@gmail.com"
+                    },
+                    {
+                        "username": "mattsoulanille",
+                        "email": "matthew@soulanille.net"
+                    },
+                    {
+                        "username": "jinjingforever",
+                        "email": "jinjingforever@gmail.com"
+                    },
+                    {
+                        "username": "ahmedsabie",
+                        "email": "ahmed13579@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6362027944323924,
+                "detail": {
+                    "quality": 0.7510088730410631,
+                    "popularity": 0.41996599685559344,
+                    "maintenance": 0.754034381773188
+                }
+            },
+            "searchScore": 0.1563269
+        },
+        {
+            "package": {
+                "name": "ml-logistic-regression",
+                "scope": "unscoped",
+                "version": "2.0.0",
+                "description": "Logistic regression",
+                "keywords": [
+                    "machine learning",
+                    "logistic regression",
+                    "classification",
+                    "classifier"
+                ],
+                "date": "2020-05-03T18:09:11.036Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/ml-logistic-regression",
+                    "homepage": "https://github.com/mljs/logistic-regression#readme",
+                    "repository": "https://github.com/mljs/logistic-regression",
+                    "bugs": "https://github.com/mljs/logistic-regression/issues"
+                },
+                "author": {
+                    "name": "jajoe"
+                },
+                "publisher": {
+                    "username": "targos",
+                    "email": "targos+npm@protonmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "mljs-bot",
+                        "email": "bot+npm-mljs@zakodium.com"
+                    },
+                    {
+                        "username": "stropitek",
+                        "email": "kostro.d@gmail.com"
+                    },
+                    {
+                        "username": "targos",
+                        "email": "targos+npm@protonmail.com"
+                    },
+                    {
+                        "username": "lpatiny",
+                        "email": "lpatiny@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6732387438910574,
+                "detail": {
+                    "quality": 0.9976457888306255,
+                    "popularity": 0.06853347244767385,
+                    "maintenance": 0.9998808339576686
+                }
+            },
+            "searchScore": 0.15475363
+        },
+        {
+            "package": {
+                "name": "ml-knn",
+                "scope": "unscoped",
+                "version": "3.0.0",
+                "description": "k-nearest neighbors algorithm",
+                "keywords": [
+                    "nearest",
+                    "neighboor",
+                    "classifier",
+                    "machine",
+                    "learning"
+                ],
+                "date": "2019-06-29T21:39:04.411Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/ml-knn",
+                    "homepage": "https://github.com/mljs/knn#readme",
+                    "repository": "https://github.com/mljs/knn",
+                    "bugs": "https://github.com/mljs/knn/issues"
+                },
+                "author": {
+                    "name": "Jefferson Hernandez"
+                },
+                "publisher": {
+                    "username": "targos",
+                    "email": "targos+npm@protonmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "mljs-bot",
+                        "email": "bot+npm-mljs@zakodium.com"
+                    },
+                    {
+                        "username": "stropitek",
+                        "email": "kostro.d@gmail.com"
+                    },
+                    {
+                        "username": "targos",
+                        "email": "targos+npm@protonmail.com"
+                    },
+                    {
+                        "username": "lpatiny",
+                        "email": "lpatiny@gmail.com"
+                    },
+                    {
+                        "username": "maasencioh",
+                        "email": "maasencioh@gmail.com"
+                    },
+                    {
+                        "username": "jeffersonh44",
+                        "email": "jeffersonh44@gmail.com"
+                    },
+                    {
+                        "username": "andcastillo",
+                        "email": "andcastillo@gmail.com"
+                    },
+                    {
+                        "username": "ml-bot",
+                        "email": "admin@cheminfo.org"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6892147141227384,
+                "detail": {
+                    "quality": 0.9980341493252681,
+                    "popularity": 0.11382067190722175,
+                    "maintenance": 0.9999063833075152
+                }
+            },
+            "searchScore": 0.15318568
+        },
+        {
+            "package": {
+                "name": "ml-regression",
+                "scope": "unscoped",
+                "version": "5.0.0",
+                "description": "Regression algorithms",
+                "keywords": [
+                    "regression",
+                    "data",
+                    "mining",
+                    "datamining",
+                    "machine",
+                    "learning"
+                ],
+                "date": "2019-06-29T14:22:06.286Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/ml-regression",
+                    "homepage": "https://github.com/mljs/regression",
+                    "repository": "https://github.com/mljs/regression",
+                    "bugs": "https://github.com/mljs/regression/issues"
+                },
+                "author": {
+                    "name": "Michaël Zasso"
+                },
+                "publisher": {
+                    "username": "targos",
+                    "email": "targos+npm@protonmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "mljs-bot",
+                        "email": "bot+npm-mljs@zakodium.com"
+                    },
+                    {
+                        "username": "stropitek",
+                        "email": "kostro.d@gmail.com"
+                    },
+                    {
+                        "username": "targos",
+                        "email": "targos+npm@protonmail.com"
+                    },
+                    {
+                        "username": "lpatiny",
+                        "email": "lpatiny@gmail.com"
+                    },
+                    {
+                        "username": "maasencioh",
+                        "email": "maasencioh@gmail.com"
+                    },
+                    {
+                        "username": "jeffersonh44",
+                        "email": "jeffersonh44@gmail.com"
+                    },
+                    {
+                        "username": "andcastillo",
+                        "email": "andcastillo@gmail.com"
+                    },
+                    {
+                        "username": "ml-bot",
+                        "email": "admin@cheminfo.org"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.691041771614104,
+                "detail": {
+                    "quality": 0.9953154286558407,
+                    "popularity": 0.12139671752047956,
+                    "maintenance": 0.9998808339576686
+                }
+            },
+            "searchScore": 0.15142204
+        },
+        {
+            "package": {
+                "name": "ml-levenberg-marquardt",
+                "scope": "unscoped",
+                "version": "3.1.1",
+                "description": "Curve fitting method in javascript",
+                "keywords": [
+                    "machine",
+                    "learning",
+                    "data",
+                    "mining",
+                    "datamining",
+                    "levenberg",
+                    "marquardt"
+                ],
+                "date": "2021-03-24T12:51:41.297Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/ml-levenberg-marquardt",
+                    "homepage": "https://github.com/mljs/levenberg-marquardt#readme",
+                    "repository": "https://github.com/mljs/levenberg-marquardt",
+                    "bugs": "https://github.com/mljs/levenberg-marquardt/issues"
+                },
+                "author": {
+                    "name": "Miguel Asencio",
+                    "email": "maasencioh@gmail.com",
+                    "username": "maasencioh"
+                },
+                "publisher": {
+                    "username": "mljs-bot",
+                    "email": "bot+npm-mljs@zakodium.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "stropitek",
+                        "email": "kostro.d@gmail.com"
+                    },
+                    {
+                        "username": "targos",
+                        "email": "targos+npm@protonmail.com"
+                    },
+                    {
+                        "username": "lpatiny",
+                        "email": "lpatiny@gmail.com"
+                    },
+                    {
+                        "username": "mljs-bot",
+                        "email": "bot+npm-mljs@zakodium.com"
+                    },
+                    {
+                        "username": "maasencioh",
+                        "email": "maasencioh@gmail.com"
+                    },
+                    {
+                        "username": "jeffersonh44",
+                        "email": "jeffersonh44@gmail.com"
+                    },
+                    {
+                        "username": "andcastillo",
+                        "email": "andcastillo@gmail.com"
+                    },
+                    {
+                        "username": "ml-bot",
+                        "email": "admin@cheminfo.org"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6931381994337933,
+                "detail": {
+                    "quality": 0.9970632378417202,
+                    "popularity": 0.12588838913169503,
+                    "maintenance": 0.9998808339576686
+                }
+            },
+            "searchScore": 0.14962155
+        },
+        {
+            "package": {
+                "name": "density-clustering",
+                "scope": "unscoped",
+                "version": "1.3.0",
+                "description": "Density Based Clustering in JavaScript",
+                "keywords": [
+                    "DBSCAN",
+                    "OPTICS",
+                    "K-Means",
+                    "clustering",
+                    "cluster",
+                    "analysis",
+                    "machine",
+                    "learning",
+                    "statistics"
+                ],
+                "date": "2015-07-23T02:14:40.010Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/density-clustering",
+                    "homepage": "https://github.com/LukaszKrawczyk/density-clustering",
+                    "repository": "https://github.com/LukaszKrawczyk/density-clustering",
+                    "bugs": "https://github.com/LukaszKrawczyk/density-clustering/issues"
+                },
+                "author": {
+                    "name": "Lukasz Krawczyk"
+                },
+                "publisher": {
+                    "username": "lukaszkrawczyk",
+                    "email": "contact@lukaszkrawczyk.eu"
+                },
+                "maintainers": [
+                    {
+                        "username": "lukaszkrawczyk",
+                        "email": "contac@lukaszkrawczyk.eu"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6811539532170672,
+                "detail": {
+                    "quality": 0.8364556389013833,
+                    "popularity": 0.229311341889909,
+                    "maintenance": 0.9998808339576686
+                }
+            },
+            "searchScore": 0.13965678
+        },
+        {
+            "package": {
+                "name": "alike",
+                "scope": "unscoped",
+                "version": "1.3.0",
+                "description": "A simple kNN library for Machine Learning, comparing JSON objects using Euclidean distances, returning top k similar objects -- supports normalization, weights, key and filter parameters",
+                "keywords": [
+                    "knn",
+                    "Machine Learning",
+                    "recommender system",
+                    "euclidean distances",
+                    "similarity",
+                    "object comparison"
+                ],
+                "date": "2014-10-16T20:31:03.277Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/alike",
+                    "homepage": "https://github.com/axiomzen/Alike",
+                    "repository": "https://github.com/axiomzen/Alike",
+                    "bugs": "https://github.com/axiomzen/Alike/issues"
+                },
+                "author": {
+                    "name": "mck-",
+                    "email": "kuomarc2@gmail.com",
+                    "username": "mck-"
+                },
+                "publisher": {
+                    "username": "mck-",
+                    "email": "kuomarc2@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "mck-",
+                        "email": "kuomarc2@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6632349293670836,
+                "detail": {
+                    "quality": 0.9397757405399371,
+                    "popularity": 0.08955404377119573,
+                    "maintenance": 0.9998808339576686
+                }
+            },
+            "searchScore": 0.1372074
+        },
+        {
+            "package": {
+                "name": "ml-sentiment",
+                "scope": "unscoped",
+                "version": "2.0.7",
+                "description": "Machine learner sentiment classifier, with ability to negate words, with english and german",
+                "keywords": [
+                    "machine learning",
+                    "sentiment",
+                    "analyser",
+                    "nlp",
+                    "ml",
+                    "natural language processing"
+                ],
+                "date": "2017-02-03T18:01:17.007Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/ml-sentiment",
+                    "homepage": "https://github.com/syzer/sentiment-analyser#readme",
+                    "repository": "https://github.com/syzer/sentiment-analyser",
+                    "bugs": "https://github.com/syzer/sentiment-analyser/issues"
+                },
+                "publisher": {
+                    "username": "syzer",
+                    "email": "syzer3@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "syzer",
+                        "email": "syzer3@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6671872149411695,
+                "detail": {
+                    "quality": 0.9614617064582223,
+                    "popularity": 0.08223276813163574,
+                    "maintenance": 0.9999063833075152
+                }
+            },
+            "searchScore": 0.13674346
+        },
+        {
+            "package": {
+                "name": "wink-helpers",
+                "scope": "unscoped",
+                "version": "2.0.0",
+                "description": "Functions for cross validation, shuffle, cartesian product and more",
+                "keywords": [
+                    "Array",
+                    "Object",
+                    "String",
+                    "Helper",
+                    "Cartesian Product",
+                    "Frequency Table",
+                    "Validate",
+                    "Validation",
+                    "Sort",
+                    "Pluck",
+                    "Shuffle",
+                    "Random Shuffle",
+                    "Cross Validation",
+                    "Machine Learning"
+                ],
+                "date": "2018-11-01T07:05:45.482Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/wink-helpers",
+                    "homepage": "http://winkjs.org/",
+                    "repository": "https://github.com/winkjs/wink-helpers",
+                    "bugs": "https://github.com/winkjs/wink-helpers/issues"
+                },
+                "author": {
+                    "name": "Sanjaya Kumar Saxena"
+                },
+                "publisher": {
+                    "username": "sanjaya",
+                    "email": "sanjaya@graype.in"
+                },
+                "maintainers": [
+                    {
+                        "username": "prtksxna",
+                        "email": "prtksxna@gmail.com"
+                    },
+                    {
+                        "username": "r4chn4",
+                        "email": "rachna@graype.in"
+                    },
+                    {
+                        "username": "sanjaya",
+                        "email": "sanjaya@graype.in"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.684756776647114,
+                "detail": {
+                    "quality": 0.9900461886258111,
+                    "popularity": 0.10793053114782966,
+                    "maintenance": 0.9999063833075152
+                }
+            },
+            "searchScore": 0.13567448
+        },
+        {
+            "package": {
+                "name": "node-svm-wc",
+                "scope": "unscoped",
+                "version": "2.1.10",
+                "description": "Support Vector Machine for nodejs",
+                "keywords": [
+                    "svm",
+                    "machine learning",
+                    "libsvm"
+                ],
+                "date": "2019-03-26T12:36:02.718Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/node-svm-wc",
+                    "homepage": "https://github.com/nicolaspanel/node-svm",
+                    "repository": "https://github.com/nicolaspanel/node-svm",
+                    "bugs": "https://github.com/nicolaspanel/node-svm/issues"
+                },
+                "author": {
+                    "name": "Nicolas Panel"
+                },
+                "publisher": {
+                    "username": "wenq1",
+                    "email": "1@newmobo.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "wenq1",
+                        "email": "1@newmobo.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6506088911171038,
+                "detail": {
+                    "quality": 0.894676053570601,
+                    "popularity": 0.09211097396655227,
+                    "maintenance": 0.9999063833075152
+                }
+            },
+            "searchScore": 0.12986523
+        },
+        {
+            "package": {
+                "name": "ml-matrix-convolution",
+                "scope": "unscoped",
+                "version": "1.0.0",
+                "description": "Matrix convolution: It offers the direct and the fourier transform convolution",
+                "keywords": [
+                    "machine",
+                    "learning",
+                    "data",
+                    "mining",
+                    "datamining"
+                ],
+                "date": "2021-03-24T13:12:28.811Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/ml-matrix-convolution",
+                    "homepage": "https://github.com/mljs/matrix-convolution#readme",
+                    "repository": "https://github.com/mljs/matrix-convolution",
+                    "bugs": "https://github.com/mljs/matrix-convolution/issues"
+                },
+                "author": {
+                    "name": "Andrés Castillo"
+                },
+                "publisher": {
+                    "username": "mljs-bot",
+                    "email": "bot+npm-mljs@zakodium.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "stropitek",
+                        "email": "kostro.d@gmail.com"
+                    },
+                    {
+                        "username": "targos",
+                        "email": "targos+npm@protonmail.com"
+                    },
+                    {
+                        "username": "lpatiny",
+                        "email": "lpatiny@gmail.com"
+                    },
+                    {
+                        "username": "mljs-bot",
+                        "email": "bot+npm-mljs@zakodium.com"
+                    },
+                    {
+                        "username": "cheminfo-bot",
+                        "email": "admin@cheminfo.org"
+                    },
+                    {
+                        "username": "andcastillo",
+                        "email": "andcastillo@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6828612750290777,
+                "detail": {
+                    "quality": 0.9949269774906794,
+                    "popularity": 0.09830554474769446,
+                    "maintenance": 0.9999321174862308
+                }
+            },
+            "searchScore": 0.12829328
+        },
+        {
+            "package": {
+                "name": "fuzzy.ai",
+                "scope": "unscoped",
+                "version": "1.0.6",
+                "description": "Interface to fuzzy.ai API",
+                "keywords": [
+                    "fuzzy",
+                    "machine learning",
+                    "machine intelligence"
+                ],
+                "date": "2018-07-31T17:56:29.739Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/fuzzy.ai",
+                    "homepage": "http://github.com/fuzzy-ai/nodejs",
+                    "repository": "https://github.com/fuzzy-ai/nodejs",
+                    "bugs": "https://github.com/fuzzy-ai/nodejs/issues"
+                },
+                "publisher": {
+                    "username": "evanp",
+                    "email": "evan@e14n.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "evanp",
+                        "email": "evan@e14n.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6574483438490533,
+                "detail": {
+                    "quality": 0.9565349727127667,
+                    "popularity": 0.05863033679312264,
+                    "maintenance": 0.9999063833075152
+                }
+            },
+            "searchScore": 0.12585397
+        },
+        {
+            "package": {
+                "name": "azure-arm-machinelearning",
+                "scope": "unscoped",
+                "version": "1.2.0-preview",
+                "description": "Microsoft Azure MachineLearning Management Client Library for node",
+                "keywords": [
+                    "node",
+                    "azure"
+                ],
+                "date": "2018-11-07T17:38:26.905Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/azure-arm-machinelearning",
+                    "homepage": "http://github.com/Azure/azure-sdk-for-node",
+                    "repository": "https://github.com/Azure/azure-sdk-for-node",
+                    "bugs": "http://github.com/Azure/azure-sdk-for-node/issues"
+                },
+                "author": {
+                    "name": "Microsoft Corporation"
+                },
+                "publisher": {
+                    "username": "windowsazure",
+                    "email": "azuresdk@outlook.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "windowsazure",
+                        "email": "azuresdk@outlook.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7153684761688581,
+                "detail": {
+                    "quality": 0.9481136483306011,
+                    "popularity": 0.23133470717727872,
+                    "maintenance": 0.9999063833075152
+                }
+            },
+            "searchScore": 0.12286619
+        },
+        {
+            "package": {
+                "name": "node-postal",
+                "scope": "unscoped",
+                "version": "1.1.2",
+                "description": "International address parsing/normalization at C speed",
+                "keywords": [
+                    "libpostal",
+                    "addresses",
+                    "address parsing",
+                    "i18n",
+                    "geo",
+                    "deduping",
+                    "machine learning",
+                    "natural language processing",
+                    "nlp",
+                    "c"
+                ],
+                "date": "2021-12-13T20:04:53.051Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/node-postal",
+                    "homepage": "https://github.com/openvenues/node-postal",
+                    "repository": "https://github.com/openvenues/node-postal",
+                    "bugs": "https://github.com/openvenues/node-postal/issues"
+                },
+                "author": {
+                    "name": "Al Barrentine",
+                    "url": "@thatdatabaseguy"
+                },
+                "publisher": {
+                    "username": "missinglink",
+                    "email": "npm@rcpt.at"
+                },
+                "maintainers": [
+                    {
+                        "username": "missinglink",
+                        "email": "npm@rcpt.at"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6668202488358679,
+                "detail": {
+                    "quality": 0.9150869509730041,
+                    "popularity": 0.12091608804810154,
+                    "maintenance": 0.9999243792203749
+                }
+            },
+            "searchScore": 0.1204503
+        },
+        {
+            "package": {
+                "name": "@tensorscript/core",
+                "scope": "tensorscript",
+                "version": "1.0.9",
+                "description": "ml with tensorflow",
+                "keywords": [
+                    "tensorflow",
+                    "machine learning",
+                    "ai"
+                ],
+                "date": "2018-07-28T17:13:09.526Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40tensorscript%2Fcore",
+                    "homepage": "https://repetere.github.io/ts-core",
+                    "repository": "https://github.com/repetere/ts-core",
+                    "bugs": "https://github.com/repetere/ts-core/issues"
+                },
+                "author": {
+                    "name": "Yaw Etse",
+                    "url": "https://github.com/yawetse"
+                },
+                "publisher": {
+                    "username": "yawetse",
+                    "email": "yaw.etse@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "janbialostok",
+                        "email": "janbialostok@gmail.com"
+                    },
+                    {
+                        "username": "repetere_user",
+                        "email": "developers@repetere.io"
+                    },
+                    {
+                        "username": "yawetse",
+                        "email": "yaw.etse@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6576808323104122,
+                "detail": {
+                    "quality": 0.9712970263110363,
+                    "popularity": 0.046666950091192164,
+                    "maintenance": 0.9998808339576686
+                }
+            },
+            "searchScore": 0.11809615
+        }
+    ]
+}
